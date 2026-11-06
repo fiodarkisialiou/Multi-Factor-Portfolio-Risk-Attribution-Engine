@@ -1,1 +1,2 @@
 # Multi-Factor-Portfolio-Risk-Attribution-Engine
+A quantitative portfolio risk and performance attribution engine built in Python. This project evaluates an equal-weighted equity portfolio against the Fama-French 3-Factor Model using OLS regression to isolate alpha and market beta. It features a historical stress-testing module and downside risk analytics (VaR, CVaR, and Maximum Drawdown) to assess portfolio resilience during major market crashes.
